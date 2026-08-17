@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-10 06:01:40",
-  "total": 9455,
-  "new_count": 4,
+  "updated_at": "2026-08-17 03:37:40",
+  "total": 9458,
+  "new_count": 3,
   "groups": {
     "时装皮肤-Apex": [
       {
@@ -34528,11 +34528,38 @@
     ],
     "时装皮肤-Fortnite": [
       {
+        "name": "Soul",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_subtlesilly/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_SubtleSilly/icon.png",
+        "first_seen": "2026-08-17T03:36:42.034959",
+        "is_new": true,
+        "rarity": "Epic",
+        "rarity_color": "#c745ff"
+      },
+      {
+        "name": "Perlica",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_graphshook/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_GraphShook/icon.png",
+        "first_seen": "2026-08-17T03:36:41.994410",
+        "is_new": true,
+        "rarity": "Gaming Legends Series",
+        "rarity_color": "#5b40a0"
+      },
+      {
+        "name": "Forsworn Trooper",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_emailstamp/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_EmailStamp/icon.png",
+        "first_seen": "2026-08-17T03:36:41.983162",
+        "is_new": true,
+        "rarity": "Star Wars Series",
+        "rarity_color": "#e5bd45"
+      },
+      {
         "name": "Kisuke Urahara",
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_teddypermit/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_TeddyPermit/icon.png",
         "first_seen": "2026-08-10T06:00:38.860249",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Epic",
         "rarity_color": "#c745ff"
       },
@@ -34541,7 +34568,7 @@
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_sprintlucksweat/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_SprintLuckSweat/icon.png",
         "first_seen": "2026-08-10T06:00:38.852099",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Icon Series",
         "rarity_color": "#00e5ff"
       },
@@ -34550,7 +34577,7 @@
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_sprintluckslaw/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_SprintLuckSlaw/icon.png",
         "first_seen": "2026-08-10T06:00:38.850863",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Icon Series",
         "rarity_color": "#00e5ff"
       },
@@ -34559,7 +34586,7 @@
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_shovelcrop/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_ShovelCrop/icon.png",
         "first_seen": "2026-08-10T06:00:38.842167",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Epic",
         "rarity_color": "#c745ff"
       },
