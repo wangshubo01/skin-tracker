@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-24 04:04:10",
-  "total": 9493,
-  "new_count": 35,
+  "updated_at": "2026-08-31 01:06:54",
+  "total": 9495,
+  "new_count": 2,
   "groups": {
     "时装皮肤-Apex": [
       {
@@ -34528,11 +34528,29 @@
     ],
     "时装皮肤-Fortnite": [
       {
+        "name": "Crash Bandicoot",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_sprucebark/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_SpruceBark/icon.png",
+        "first_seen": "2026-08-31T01:05:44.864927",
+        "is_new": true,
+        "rarity": "Gaming Legends Series",
+        "rarity_color": "#5b40a0"
+      },
+      {
+        "name": "Lilith",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_fifthfully/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_FifthFully/icon.png",
+        "first_seen": "2026-08-31T01:05:44.777251",
+        "is_new": true,
+        "rarity": "Gaming Legends Series",
+        "rarity_color": "#5b40a0"
+      },
+      {
         "name": "Cosmic Armor Singularity",
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_uniquebeetle/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_UniqueBeetle/icon.png",
         "first_seen": "2026-08-24T04:03:24.665269",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Epic",
         "rarity_color": "#c745ff"
       },
@@ -34541,7 +34559,7 @@
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_timetrotter/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_TimeTrotter/icon.png",
         "first_seen": "2026-08-24T04:03:24.657570",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Epic",
         "rarity_color": "#c745ff"
       },
@@ -34550,7 +34568,7 @@
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_specterdunk/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_SpecterDunk/icon.png",
         "first_seen": "2026-08-24T04:03:24.639728",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Epic",
         "rarity_color": "#c745ff"
       },
@@ -34559,7 +34577,7 @@
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_southbalk/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_SouthBalk/icon.png",
         "first_seen": "2026-08-24T04:03:24.637533",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Gaming Legends Series",
         "rarity_color": "#5b40a0"
       },
@@ -34568,7 +34586,7 @@
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_slickintel_swipe/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_SlickIntel_Swipe/icon.png",
         "first_seen": "2026-08-24T04:03:24.632367",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Epic",
         "rarity_color": "#c745ff"
       },
@@ -34577,7 +34595,7 @@
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_sheerwill_blot/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_SheerWill_Blot/icon.png",
         "first_seen": "2026-08-24T04:03:24.626383",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Epic",
         "rarity_color": "#c745ff"
       },
@@ -34586,7 +34604,7 @@
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_scribespider/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_ScribeSpider/icon.png",
         "first_seen": "2026-08-24T04:03:24.622665",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Gaming Legends Series",
         "rarity_color": "#5b40a0"
       },
@@ -34595,7 +34613,7 @@
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_saltybrim_pin/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_SaltyBrim_Pin/icon.png",
         "first_seen": "2026-08-24T04:03:24.619853",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Gaming Legends Series",
         "rarity_color": "#5b40a0"
       },
@@ -34604,7 +34622,7 @@
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_phoenixkick_gain/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_PhoenixKick_Gain/icon.png",
         "first_seen": "2026-08-24T04:03:24.595121",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Epic",
         "rarity_color": "#c745ff"
       },
@@ -34613,7 +34631,7 @@
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_pebblescout_lean/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_PebbleScout_Lean/icon.png",
         "first_seen": "2026-08-24T04:03:24.591183",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Epic",
         "rarity_color": "#c745ff"
       },
@@ -34622,7 +34640,7 @@
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_outletverve/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_OutletVerve/icon.png",
         "first_seen": "2026-08-24T04:03:24.586285",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Gaming Legends Series",
         "rarity_color": "#5b40a0"
       },
@@ -34631,7 +34649,7 @@
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_noondoctor/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_NoonDoctor/icon.png",
         "first_seen": "2026-08-24T04:03:24.582655",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Gaming Legends Series",
         "rarity_color": "#5b40a0"
       },
@@ -34640,7 +34658,7 @@
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_mixedalley/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_MixedAlley/icon.png",
         "first_seen": "2026-08-24T04:03:24.575556",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Gaming Legends Series",
         "rarity_color": "#5b40a0"
       },
@@ -34649,7 +34667,7 @@
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_interorbit_shock/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_InterOrbit_Shock/icon.png",
         "first_seen": "2026-08-24T04:03:24.557746",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Epic",
         "rarity_color": "#c745ff"
       },
@@ -34658,7 +34676,7 @@
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_heroictale_fair/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_HeroicTale_Fair/icon.png",
         "first_seen": "2026-08-24T04:03:24.549977",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Epic",
         "rarity_color": "#c745ff"
       },
@@ -34667,7 +34685,7 @@
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_brokengravel_brunt/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_BrokenGravel_Brunt/icon.png",
         "first_seen": "2026-08-24T04:03:24.494259",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Epic",
         "rarity_color": "#c745ff"
       },
@@ -34676,7 +34694,7 @@
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_blockstack/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_BlockStack/icon.png",
         "first_seen": "2026-08-24T04:03:24.489048",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Epic",
         "rarity_color": "#c745ff"
       },
@@ -73589,7 +73607,7 @@
         "image_url": "https://media.valorant-api.com/weaponskins/80f3db03-4b8e-bac2-b62f-4a85e63cb2b2/displayicon.png",
         "source_url": "https://playvalorant.com/",
         "first_seen": "2026-08-24T04:03:23.504630",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Exclusive",
         "rarity_color": "#f5955b"
       },
@@ -73598,7 +73616,7 @@
         "image_url": "https://media.valorant-api.com/weaponskins/25f7a66f-41a3-13da-53d9-ff94be3ace42/displayicon.png",
         "source_url": "https://playvalorant.com/",
         "first_seen": "2026-08-24T04:03:23.491989",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Exclusive",
         "rarity_color": "#f5955b"
       },
@@ -73607,7 +73625,7 @@
         "image_url": "https://media.valorant-api.com/weaponskins/d83fecfa-41ff-9dce-0241-0980c6a087d7/displayicon.png",
         "source_url": "https://playvalorant.com/",
         "first_seen": "2026-08-24T04:03:23.481510",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Deluxe",
         "rarity_color": "#009587"
       },
@@ -73616,7 +73634,7 @@
         "image_url": "https://media.valorant-api.com/weaponskins/9ff57b38-4222-1c1e-b775-e682b7e6379b/displayicon.png",
         "source_url": "https://playvalorant.com/",
         "first_seen": "2026-08-24T04:03:23.469728",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Exclusive",
         "rarity_color": "#f5955b"
       },
@@ -73625,7 +73643,7 @@
         "image_url": "https://media.valorant-api.com/weaponskins/301233cb-442b-402b-bf7d-199d0f54cad8/displayicon.png",
         "source_url": "https://playvalorant.com/",
         "first_seen": "2026-08-24T04:03:23.465364",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Select",
         "rarity_color": "#5a9fe2"
       },
@@ -73634,7 +73652,7 @@
         "image_url": "https://media.valorant-api.com/weaponskins/30e38547-4d4b-f0bd-6416-deab45d74493/displayicon.png",
         "source_url": "https://playvalorant.com/",
         "first_seen": "2026-08-24T04:03:23.460869",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Select",
         "rarity_color": "#5a9fe2"
       },
@@ -73643,7 +73661,7 @@
         "image_url": "https://media.valorant-api.com/weaponskins/56f74904-457e-b08b-0cbd-d6bd7c39d267/displayicon.png",
         "source_url": "https://playvalorant.com/",
         "first_seen": "2026-08-24T04:03:23.456986",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Exclusive",
         "rarity_color": "#f5955b"
       },
@@ -73652,7 +73670,7 @@
         "image_url": "https://media.valorant-api.com/weaponskins/875ce5da-44cf-e6fd-6c63-b9873ab950d4/displayicon.png",
         "source_url": "https://playvalorant.com/",
         "first_seen": "2026-08-24T04:03:23.452376",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Select",
         "rarity_color": "#5a9fe2"
       },
@@ -73661,7 +73679,7 @@
         "image_url": "https://media.valorant-api.com/weaponskins/38e99cac-42b7-70b3-6ea6-4aa42e8c478e/displayicon.png",
         "source_url": "https://playvalorant.com/",
         "first_seen": "2026-08-24T04:03:23.443860",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Select",
         "rarity_color": "#5a9fe2"
       },
@@ -73670,7 +73688,7 @@
         "image_url": "https://media.valorant-api.com/weaponskins/f9e29f78-4adc-9e49-8fe6-a7b1d6d22743/displayicon.png",
         "source_url": "https://playvalorant.com/",
         "first_seen": "2026-08-24T04:03:23.430060",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Select",
         "rarity_color": "#5a9fe2"
       },
@@ -73679,7 +73697,7 @@
         "image_url": "https://media.valorant-api.com/weaponskins/f3333480-459f-cc15-da7a-34869a8fc9df/displayicon.png",
         "source_url": "https://playvalorant.com/",
         "first_seen": "2026-08-24T04:03:23.418709",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Exclusive",
         "rarity_color": "#f5955b"
       },
@@ -73688,7 +73706,7 @@
         "image_url": "https://media.valorant-api.com/weaponskins/f6cdb486-426f-d890-d78b-a88d0640ce61/displayicon.png",
         "source_url": "https://playvalorant.com/",
         "first_seen": "2026-08-24T04:03:23.416837",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Select",
         "rarity_color": "#5a9fe2"
       },
@@ -73697,7 +73715,7 @@
         "image_url": "https://media.valorant-api.com/weaponskins/bc298988-4951-4d72-4845-01b0986246dd/displayicon.png",
         "source_url": "https://playvalorant.com/",
         "first_seen": "2026-08-24T04:03:23.392870",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Deluxe",
         "rarity_color": "#009587"
       },
@@ -73706,7 +73724,7 @@
         "image_url": "https://media.valorant-api.com/weaponskins/5faac1ff-41e3-0675-ee8a-9f8b42970f3b/displayicon.png",
         "source_url": "https://playvalorant.com/",
         "first_seen": "2026-08-24T04:03:23.365239",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Select",
         "rarity_color": "#5a9fe2"
       },
@@ -73715,7 +73733,7 @@
         "image_url": "https://media.valorant-api.com/weaponskins/6c3b641c-4702-4eb6-cd26-ab851c04b8ba/displayicon.png",
         "source_url": "https://playvalorant.com/",
         "first_seen": "2026-08-24T04:03:23.353772",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Deluxe",
         "rarity_color": "#009587"
       },
@@ -73724,7 +73742,7 @@
         "image_url": "https://media.valorant-api.com/weaponskins/b494ddd1-4459-6976-6736-00a563a74376/displayicon.png",
         "source_url": "https://playvalorant.com/",
         "first_seen": "2026-08-24T04:03:23.348219",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Exclusive",
         "rarity_color": "#f5955b"
       },
@@ -73733,7 +73751,7 @@
         "image_url": "https://media.valorant-api.com/weaponskins/7f26d04c-44fb-1d65-16f0-4f827686d72b/displayicon.png",
         "source_url": "https://playvalorant.com/",
         "first_seen": "2026-08-24T04:03:23.339238",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Deluxe",
         "rarity_color": "#009587"
       },
@@ -73742,7 +73760,7 @@
         "image_url": "https://media.valorant-api.com/weaponskins/e434418b-4a79-5353-3cfc-5a85af91ef0b/displayicon.png",
         "source_url": "https://playvalorant.com/",
         "first_seen": "2026-08-24T04:03:23.331457",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Select",
         "rarity_color": "#5a9fe2"
       },
