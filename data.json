@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-31 01:06:54",
-  "total": 9495,
-  "new_count": 2,
+  "updated_at": "2026-09-07 01:11:08",
+  "total": 9503,
+  "new_count": 8,
   "groups": {
     "时装皮肤-Apex": [
       {
@@ -34528,11 +34528,83 @@
     ],
     "时装皮肤-Fortnite": [
       {
+        "name": "Bunnybone",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_tutsoothe/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_TutSoothe/icon.png",
+        "first_seen": "2026-09-07T01:10:09.113272",
+        "is_new": true,
+        "rarity": "Epic",
+        "rarity_color": "#c745ff"
+      },
+      {
+        "name": "Walter Irons",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_tikkataste/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_TikkaTaste/icon.png",
+        "first_seen": "2026-09-07T01:10:09.106445",
+        "is_new": true,
+        "rarity": "Epic",
+        "rarity_color": "#c745ff"
+      },
+      {
+        "name": "Kinetic Catalyst",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_shimpilon/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_ShimPilon/icon.png",
+        "first_seen": "2026-09-07T01:10:09.086160",
+        "is_new": true,
+        "rarity": "Epic",
+        "rarity_color": "#c745ff"
+      },
+      {
+        "name": "Oxide",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_rustedblade/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_RustedBlade/icon.png",
+        "first_seen": "2026-09-07T01:10:09.080239",
+        "is_new": true,
+        "rarity": "Epic",
+        "rarity_color": "#c745ff"
+      },
+      {
+        "name": "Ultima King",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_noblecrusher/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_NobleCrusher/icon.png",
+        "first_seen": "2026-09-07T01:10:09.053902",
+        "is_new": true,
+        "rarity": "Epic",
+        "rarity_color": "#c745ff"
+      },
+      {
+        "name": "Fractal Midas",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_glintrush/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_GlintRush/icon.png",
+        "first_seen": "2026-09-07T01:10:09.023847",
+        "is_new": true,
+        "rarity": "Epic",
+        "rarity_color": "#c745ff"
+      },
+      {
+        "name": "Osric the Uninvited",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_faintdoor/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_FaintDoor/icon.png",
+        "first_seen": "2026-09-07T01:10:09.011135",
+        "is_new": true,
+        "rarity": "Epic",
+        "rarity_color": "#c745ff"
+      },
+      {
+        "name": "Fractal Brite Bomber",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_dyeblast/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_DyeBlast/icon.png",
+        "first_seen": "2026-09-07T01:10:09.006000",
+        "is_new": true,
+        "rarity": "Epic",
+        "rarity_color": "#c745ff"
+      },
+      {
         "name": "Crash Bandicoot",
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_sprucebark/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_SpruceBark/icon.png",
         "first_seen": "2026-08-31T01:05:44.864927",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Gaming Legends Series",
         "rarity_color": "#5b40a0"
       },
@@ -34541,7 +34613,7 @@
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_fifthfully/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_FifthFully/icon.png",
         "first_seen": "2026-08-31T01:05:44.777251",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Gaming Legends Series",
         "rarity_color": "#5b40a0"
       },
