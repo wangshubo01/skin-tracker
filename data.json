@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-07 01:11:08",
-  "total": 9503,
-  "new_count": 8,
+  "updated_at": "2026-09-14 05:51:39",
+  "total": 9508,
+  "new_count": 5,
   "groups": {
     "时装皮肤-Apex": [
       {
@@ -34528,11 +34528,56 @@
     ],
     "时装皮肤-Fortnite": [
       {
+        "name": "Zero (Mega Man)",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_tackleshow/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_TackleShow/icon.png",
+        "first_seen": "2026-09-14T05:50:40.833760",
+        "is_new": true,
+        "rarity": "Gaming Legends Series",
+        "rarity_color": "#5b40a0"
+      },
+      {
+        "name": "Lil Wayne",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_noisecluelurch/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_NoiseClueLurch/icon.png",
+        "first_seen": "2026-09-14T05:50:40.791196",
+        "is_new": true,
+        "rarity": "Icon Series",
+        "rarity_color": "#00e5ff"
+      },
+      {
+        "name": "Weezy",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_noisecluegust/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_NoiseClueGust/icon.png",
+        "first_seen": "2026-09-14T05:50:40.776114",
+        "is_new": true,
+        "rarity": "Icon Series",
+        "rarity_color": "#00e5ff"
+      },
+      {
+        "name": "Mega Man X",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_dunebriefshift/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_DuneBriefShift/icon.png",
+        "first_seen": "2026-09-14T05:50:40.745555",
+        "is_new": true,
+        "rarity": "Gaming Legends Series",
+        "rarity_color": "#5b40a0"
+      },
+      {
+        "name": "Mega Man (Dual Override)",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_dunebriefmerry/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_DuneBriefMerry/icon.png",
+        "first_seen": "2026-09-14T05:50:40.743887",
+        "is_new": true,
+        "rarity": "Gaming Legends Series",
+        "rarity_color": "#5b40a0"
+      },
+      {
         "name": "Bunnybone",
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_tutsoothe/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_TutSoothe/icon.png",
         "first_seen": "2026-09-07T01:10:09.113272",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Epic",
         "rarity_color": "#c745ff"
       },
@@ -34541,7 +34586,7 @@
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_tikkataste/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_TikkaTaste/icon.png",
         "first_seen": "2026-09-07T01:10:09.106445",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Epic",
         "rarity_color": "#c745ff"
       },
@@ -34550,7 +34595,7 @@
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_shimpilon/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_ShimPilon/icon.png",
         "first_seen": "2026-09-07T01:10:09.086160",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Epic",
         "rarity_color": "#c745ff"
       },
@@ -34559,7 +34604,7 @@
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_rustedblade/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_RustedBlade/icon.png",
         "first_seen": "2026-09-07T01:10:09.080239",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Epic",
         "rarity_color": "#c745ff"
       },
@@ -34568,7 +34613,7 @@
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_noblecrusher/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_NobleCrusher/icon.png",
         "first_seen": "2026-09-07T01:10:09.053902",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Epic",
         "rarity_color": "#c745ff"
       },
@@ -34577,7 +34622,7 @@
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_glintrush/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_GlintRush/icon.png",
         "first_seen": "2026-09-07T01:10:09.023847",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Epic",
         "rarity_color": "#c745ff"
       },
@@ -34586,7 +34631,7 @@
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_faintdoor/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_FaintDoor/icon.png",
         "first_seen": "2026-09-07T01:10:09.011135",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Epic",
         "rarity_color": "#c745ff"
       },
@@ -34595,7 +34640,7 @@
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_dyeblast/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_DyeBlast/icon.png",
         "first_seen": "2026-09-07T01:10:09.006000",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Epic",
         "rarity_color": "#c745ff"
       },
