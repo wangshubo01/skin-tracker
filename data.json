@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-14 05:51:39",
-  "total": 9508,
-  "new_count": 5,
+  "updated_at": "2026-09-21 05:57:15",
+  "total": 9523,
+  "new_count": 15,
   "groups": {
     "时装皮肤-Apex": [
       {
@@ -34528,11 +34528,146 @@
     ],
     "时装皮肤-Fortnite": [
       {
+        "name": "Kairi",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_waningcacti/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_WaningCacti/icon.png",
+        "first_seen": "2026-09-21T05:56:26.083141",
+        "is_new": true,
+        "rarity": "Gaming Legends Series",
+        "rarity_color": "#5b40a0"
+      },
+      {
+        "name": "Riku",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_vealcadet/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_VealCadet/icon.png",
+        "first_seen": "2026-09-21T05:56:26.078071",
+        "is_new": true,
+        "rarity": "Gaming Legends Series",
+        "rarity_color": "#5b40a0"
+      },
+      {
+        "name": "Sora",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_spiretend/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_SpireTend/icon.png",
+        "first_seen": "2026-09-21T05:56:26.048331",
+        "is_new": true,
+        "rarity": "Gaming Legends Series",
+        "rarity_color": "#5b40a0"
+      },
+      {
+        "name": "Fallow the Fallen",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_sharpcrave/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_SharpCrave/icon.png",
+        "first_seen": "2026-09-21T05:56:26.033890",
+        "is_new": true,
+        "rarity": "Epic",
+        "rarity_color": "#c745ff"
+      },
+      {
+        "name": "Osric the Conqueror",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_routpinch/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_RoutPinch/icon.png",
+        "first_seen": "2026-09-21T05:56:26.025152",
+        "is_new": true,
+        "rarity": "Epic",
+        "rarity_color": "#c745ff"
+      },
+      {
+        "name": "Pixel Polli",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_retroblade/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_RetroBlade/icon.png",
+        "first_seen": "2026-09-21T05:56:26.019739",
+        "is_new": true,
+        "rarity": "Epic",
+        "rarity_color": "#c745ff"
+      },
+      {
+        "name": "Elite Kado Thorne",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_lazarusuntold/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_LazarusUntold/icon.png",
+        "first_seen": "2026-09-21T05:56:25.967482",
+        "is_new": true,
+        "rarity": "Epic",
+        "rarity_color": "#c745ff"
+      },
+      {
+        "name": "Areta the Vengeful",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_gulchtruce/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_GulchTruce/icon.png",
+        "first_seen": "2026-09-21T05:56:25.948560",
+        "is_new": true,
+        "rarity": "Epic",
+        "rarity_color": "#c745ff"
+      },
+      {
+        "name": "Thana the Pale",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_grizzlydemise/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_GrizzlyDemise/icon.png",
+        "first_seen": "2026-09-21T05:56:25.946423",
+        "is_new": true,
+        "rarity": "Epic",
+        "rarity_color": "#c745ff"
+      },
+      {
+        "name": "Ironmouse",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_feelunionski/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_FeelUnionSki/icon.png",
+        "first_seen": "2026-09-21T05:56:25.925791",
+        "is_new": true,
+        "rarity": "Epic",
+        "rarity_color": "#c745ff"
+      },
+      {
+        "name": "Decora Ironmouse",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_feelunionmoo/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_FeelUnionMoo/icon.png",
+        "first_seen": "2026-09-21T05:56:25.924814",
+        "is_new": true,
+        "rarity": "Epic",
+        "rarity_color": "#c745ff"
+      },
+      {
+        "name": "Roxas",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_faunapike/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_FaunaPike/icon.png",
+        "first_seen": "2026-09-21T05:56:25.922457",
+        "is_new": true,
+        "rarity": "Gaming Legends Series",
+        "rarity_color": "#5b40a0"
+      },
+      {
+        "name": "Lucyna Kushinada",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_faithperch/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_FaithPerch/icon.png",
+        "first_seen": "2026-09-21T05:56:25.919903",
+        "is_new": true,
+        "rarity": "Epic",
+        "rarity_color": "#c745ff"
+      },
+      {
+        "name": "Champion Focus",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_cyberfncs/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_CyberFNCS/icon.png",
+        "first_seen": "2026-09-21T05:56:25.902410",
+        "is_new": true,
+        "rarity": "Epic",
+        "rarity_color": "#c745ff"
+      },
+      {
+        "name": "Hiroshi Jackson",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_bentcarpet/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_BentCarpet/icon.png",
+        "first_seen": "2026-09-21T05:56:25.871386",
+        "is_new": true,
+        "rarity": "Gaming Legends Series",
+        "rarity_color": "#5b40a0"
+      },
+      {
         "name": "Zero (Mega Man)",
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_tackleshow/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_TackleShow/icon.png",
         "first_seen": "2026-09-14T05:50:40.833760",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Gaming Legends Series",
         "rarity_color": "#5b40a0"
       },
@@ -34541,7 +34676,7 @@
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_noisecluelurch/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_NoiseClueLurch/icon.png",
         "first_seen": "2026-09-14T05:50:40.791196",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Icon Series",
         "rarity_color": "#00e5ff"
       },
@@ -34550,7 +34685,7 @@
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_noisecluegust/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_NoiseClueGust/icon.png",
         "first_seen": "2026-09-14T05:50:40.776114",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Icon Series",
         "rarity_color": "#00e5ff"
       },
@@ -34559,7 +34694,7 @@
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_dunebriefshift/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_DuneBriefShift/icon.png",
         "first_seen": "2026-09-14T05:50:40.745555",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Gaming Legends Series",
         "rarity_color": "#5b40a0"
       },
@@ -34568,7 +34703,7 @@
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_dunebriefmerry/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_DuneBriefMerry/icon.png",
         "first_seen": "2026-09-14T05:50:40.743887",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Gaming Legends Series",
         "rarity_color": "#5b40a0"
       },
