@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-28 06:21:41",
-  "total": 9535,
-  "new_count": 12,
+  "updated_at": "2026-10-05 06:35:38",
+  "total": 9551,
+  "new_count": 16,
   "groups": {
     "时装皮肤-Apex": [
       {
@@ -34528,11 +34528,155 @@
     ],
     "时装皮肤-Fortnite": [
       {
+        "name": "Poppy Pinns",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_vaguehex/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_VagueHex/icon.png",
+        "first_seen": "2026-10-05T06:34:47.082215",
+        "is_new": true,
+        "rarity": "Epic",
+        "rarity_color": "#c745ff"
+      },
+      {
+        "name": "Bonnie the Rabbit",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_tearerrand/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_TearErrand/icon.png",
+        "first_seen": "2026-10-05T06:34:47.064697",
+        "is_new": true,
+        "rarity": "Gaming Legends Series",
+        "rarity_color": "#5b40a0"
+      },
+      {
+        "name": "Yuno",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_swornsnout/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_SwornSnout/icon.png",
+        "first_seen": "2026-10-05T06:34:47.057966",
+        "is_new": true,
+        "rarity": "Epic",
+        "rarity_color": "#c745ff"
+      },
+      {
+        "name": "Chica the Chicken",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_sushiaware/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_SushiAware/icon.png",
+        "first_seen": "2026-10-05T06:34:47.053703",
+        "is_new": true,
+        "rarity": "Gaming Legends Series",
+        "rarity_color": "#5b40a0"
+      },
+      {
+        "name": "Noelle",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_slumpafter/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_SlumpAfter/icon.png",
+        "first_seen": "2026-10-05T06:34:47.032708",
+        "is_new": true,
+        "rarity": "Epic",
+        "rarity_color": "#c745ff"
+      },
+      {
+        "name": "FNCS Teal Knight",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_rubywardenfncs/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_RubyWardenFNCS/icon.png",
+        "first_seen": "2026-10-05T06:34:47.015968",
+        "is_new": true,
+        "rarity": "Epic",
+        "rarity_color": "#c745ff"
+      },
+      {
+        "name": "Dollie",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_quainttoy/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_QuaintToy/icon.png",
+        "first_seen": "2026-10-05T06:34:47.001457",
+        "is_new": true,
+        "rarity": "Epic",
+        "rarity_color": "#c745ff"
+      },
+      {
+        "name": "Mineko",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_palemaiko/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_PaleMaiko/icon.png",
+        "first_seen": "2026-10-05T06:34:46.980903",
+        "is_new": true,
+        "rarity": "Epic",
+        "rarity_color": "#c745ff"
+      },
+      {
+        "name": "Asta",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_mimicglean/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_MimicGlean/icon.png",
+        "first_seen": "2026-10-05T06:34:46.966127",
+        "is_new": true,
+        "rarity": "Epic",
+        "rarity_color": "#c745ff"
+      },
+      {
+        "name": "Foxy The Pirate",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_jigsawwaste/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_JigsawWaste/icon.png",
+        "first_seen": "2026-10-05T06:34:46.948502",
+        "is_new": true,
+        "rarity": "Gaming Legends Series",
+        "rarity_color": "#5b40a0"
+      },
+      {
+        "name": "Nitemare Hack",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_infoinvader/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_InfoInvader/icon.png",
+        "first_seen": "2026-10-05T06:34:46.944610",
+        "is_new": true,
+        "rarity": "Epic",
+        "rarity_color": "#c745ff"
+      },
+      {
+        "name": "Jack-a-Nape",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_hihat/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_HiHat/icon.png",
+        "first_seen": "2026-10-05T06:34:46.937081",
+        "is_new": true,
+        "rarity": "Epic",
+        "rarity_color": "#c745ff"
+      },
+      {
+        "name": "Freddy Fazbear",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_guardhence/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_GuardHence/icon.png",
+        "first_seen": "2026-10-05T06:34:46.930506",
+        "is_new": true,
+        "rarity": "Gaming Legends Series",
+        "rarity_color": "#5b40a0"
+      },
+      {
+        "name": "Gold Punk",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_goldpumpkin/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_GoldPumpkin/icon.png",
+        "first_seen": "2026-10-05T06:34:46.924417",
+        "is_new": true,
+        "rarity": "Epic",
+        "rarity_color": "#c745ff"
+      },
+      {
+        "name": "Cel",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_collarrigor/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_CollarRigor/icon.png",
+        "first_seen": "2026-10-05T06:34:46.881566",
+        "is_new": true,
+        "rarity": "Gaming Legends Series",
+        "rarity_color": "#5b40a0"
+      },
+      {
+        "name": "Freddy Krueger",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_apronchow/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_ApronChow/icon.png",
+        "first_seen": "2026-10-05T06:34:46.852782",
+        "is_new": true,
+        "rarity": "Epic",
+        "rarity_color": "#c745ff"
+      },
+      {
         "name": "Satin Angel Madison",
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_misttycoonlife/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_MistTycoonLife/icon.png",
         "first_seen": "2026-09-28T06:20:42.764912",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Icon Series",
         "rarity_color": "#00e5ff"
       },
@@ -34541,7 +34685,7 @@
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_misttycoonhike/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_MistTycoonHike/icon.png",
         "first_seen": "2026-09-28T06:20:42.763684",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Icon Series",
         "rarity_color": "#00e5ff"
       },
@@ -34550,7 +34694,7 @@
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_debitscent/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_DebitScent/icon.png",
         "first_seen": "2026-09-28T06:20:42.717080",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Gaming Legends Series",
         "rarity_color": "#5b40a0"
       },
@@ -34559,7 +34703,7 @@
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_cosmictrellis/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_CosmicTrellis/icon.png",
         "first_seen": "2026-09-28T06:20:42.710849",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Gaming Legends Series",
         "rarity_color": "#5b40a0"
       },
@@ -73895,7 +74039,7 @@
         "image_url": "https://media.valorant-api.com/weaponskins/f401b55f-4b7d-c7a5-d698-a5ab0a54df39/displayicon.png",
         "source_url": "https://playvalorant.com/",
         "first_seen": "2026-09-28T06:20:41.110672",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Exclusive",
         "rarity_color": "#f5955b"
       },
@@ -73904,7 +74048,7 @@
         "image_url": "https://media.valorant-api.com/weaponskins/1909cfd3-4229-1943-2db0-d489366a4652/displayicon.png",
         "source_url": "https://playvalorant.com/",
         "first_seen": "2026-09-28T06:20:41.079549",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Select",
         "rarity_color": "#5a9fe2"
       },
@@ -73913,7 +74057,7 @@
         "image_url": "https://media.valorant-api.com/weaponskins/3ad9e695-4fd2-0937-2894-84bdb2798294/displayicon.png",
         "source_url": "https://playvalorant.com/",
         "first_seen": "2026-09-28T06:20:41.038413",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Select",
         "rarity_color": "#5a9fe2"
       },
@@ -73922,7 +74066,7 @@
         "image_url": "https://media.valorant-api.com/weaponskins/b0f4c51b-4655-cb16-a6f0-d0b38c0ab45b/displayicon.png",
         "source_url": "https://playvalorant.com/",
         "first_seen": "2026-09-28T06:20:41.028645",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Select",
         "rarity_color": "#5a9fe2"
       },
@@ -73931,7 +74075,7 @@
         "image_url": "https://media.valorant-api.com/weaponskins/7b17cfbb-4d50-4908-9da5-18afb3a63d8a/displayicon.png",
         "source_url": "https://playvalorant.com/",
         "first_seen": "2026-09-28T06:20:41.018471",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Exclusive",
         "rarity_color": "#f5955b"
       },
@@ -73940,7 +74084,7 @@
         "image_url": "https://media.valorant-api.com/weaponskins/7a6c65d8-4439-cf7b-1138-e2883f53bff8/displayicon.png",
         "source_url": "https://playvalorant.com/",
         "first_seen": "2026-09-28T06:20:41.010182",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Select",
         "rarity_color": "#5a9fe2"
       },
@@ -73949,7 +74093,7 @@
         "image_url": "https://media.valorant-api.com/weaponskins/2b7a1b00-48a0-8bfd-f2ec-ce95e5e78bdb/displayicon.png",
         "source_url": "https://playvalorant.com/",
         "first_seen": "2026-09-28T06:20:41.002018",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Select",
         "rarity_color": "#5a9fe2"
       },
@@ -73958,7 +74102,7 @@
         "image_url": "https://media.valorant-api.com/weaponskins/9450a84c-4fc5-8df6-9d04-328d11d7d979/displayicon.png",
         "source_url": "https://playvalorant.com/",
         "first_seen": "2026-09-28T06:20:40.990868",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Select",
         "rarity_color": "#5a9fe2"
       },
