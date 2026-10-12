@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-05 06:35:38",
-  "total": 9551,
-  "new_count": 16,
+  "updated_at": "2026-10-12 07:01:00",
+  "total": 9556,
+  "new_count": 5,
   "groups": {
     "时装皮肤-Apex": [
       {
@@ -34528,11 +34528,56 @@
     ],
     "时装皮肤-Fortnite": [
       {
+        "name": "Jack the Clown",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_witchvalve/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_WitchValve/icon.png",
+        "first_seen": "2026-10-12T07:00:04.908871",
+        "is_new": true,
+        "rarity": "Epic",
+        "rarity_color": "#c745ff"
+      },
+      {
+        "name": "Pippa Pinns",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_vaguehex/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_VagueHex/icon.png",
+        "first_seen": "2026-10-12T07:00:04.895872",
+        "is_new": true,
+        "rarity": "Epic",
+        "rarity_color": "#c745ff"
+      },
+      {
+        "name": "The Deer",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_terrybroke/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_TerryBroke/icon.png",
+        "first_seen": "2026-10-12T07:00:04.889000",
+        "is_new": true,
+        "rarity": "Gaming Legends Series",
+        "rarity_color": "#5b40a0"
+      },
+      {
+        "name": "Chun-Li (Street Fighter 2026)",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_pongoquell/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_PongoQuell/icon.png",
+        "first_seen": "2026-10-12T07:00:04.864451",
+        "is_new": true,
+        "rarity": "Gaming Legends Series",
+        "rarity_color": "#5b40a0"
+      },
+      {
+        "name": "Ryu (Street Fighter 2026)",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_hadtummy/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_HadTummy/icon.png",
+        "first_seen": "2026-10-12T07:00:04.838765",
+        "is_new": true,
+        "rarity": "Gaming Legends Series",
+        "rarity_color": "#5b40a0"
+      },
+      {
         "name": "Poppy Pinns",
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_vaguehex/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_VagueHex/icon.png",
         "first_seen": "2026-10-05T06:34:47.082215",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Epic",
         "rarity_color": "#c745ff"
       },
@@ -34541,7 +34586,7 @@
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_tearerrand/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_TearErrand/icon.png",
         "first_seen": "2026-10-05T06:34:47.064697",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Gaming Legends Series",
         "rarity_color": "#5b40a0"
       },
@@ -34550,7 +34595,7 @@
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_swornsnout/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_SwornSnout/icon.png",
         "first_seen": "2026-10-05T06:34:47.057966",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Epic",
         "rarity_color": "#c745ff"
       },
@@ -34559,7 +34604,7 @@
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_sushiaware/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_SushiAware/icon.png",
         "first_seen": "2026-10-05T06:34:47.053703",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Gaming Legends Series",
         "rarity_color": "#5b40a0"
       },
@@ -34568,7 +34613,7 @@
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_slumpafter/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_SlumpAfter/icon.png",
         "first_seen": "2026-10-05T06:34:47.032708",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Epic",
         "rarity_color": "#c745ff"
       },
@@ -34577,7 +34622,7 @@
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_rubywardenfncs/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_RubyWardenFNCS/icon.png",
         "first_seen": "2026-10-05T06:34:47.015968",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Epic",
         "rarity_color": "#c745ff"
       },
@@ -34586,7 +34631,7 @@
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_quainttoy/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_QuaintToy/icon.png",
         "first_seen": "2026-10-05T06:34:47.001457",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Epic",
         "rarity_color": "#c745ff"
       },
@@ -34595,7 +34640,7 @@
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_palemaiko/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_PaleMaiko/icon.png",
         "first_seen": "2026-10-05T06:34:46.980903",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Epic",
         "rarity_color": "#c745ff"
       },
@@ -34604,7 +34649,7 @@
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_mimicglean/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_MimicGlean/icon.png",
         "first_seen": "2026-10-05T06:34:46.966127",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Epic",
         "rarity_color": "#c745ff"
       },
@@ -34613,7 +34658,7 @@
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_jigsawwaste/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_JigsawWaste/icon.png",
         "first_seen": "2026-10-05T06:34:46.948502",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Gaming Legends Series",
         "rarity_color": "#5b40a0"
       },
@@ -34622,7 +34667,7 @@
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_infoinvader/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_InfoInvader/icon.png",
         "first_seen": "2026-10-05T06:34:46.944610",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Epic",
         "rarity_color": "#c745ff"
       },
@@ -34631,7 +34676,7 @@
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_hihat/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_HiHat/icon.png",
         "first_seen": "2026-10-05T06:34:46.937081",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Epic",
         "rarity_color": "#c745ff"
       },
@@ -34640,7 +34685,7 @@
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_guardhence/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_GuardHence/icon.png",
         "first_seen": "2026-10-05T06:34:46.930506",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Gaming Legends Series",
         "rarity_color": "#5b40a0"
       },
@@ -34649,7 +34694,7 @@
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_goldpumpkin/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_GoldPumpkin/icon.png",
         "first_seen": "2026-10-05T06:34:46.924417",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Epic",
         "rarity_color": "#c745ff"
       },
@@ -34658,7 +34703,7 @@
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_collarrigor/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_CollarRigor/icon.png",
         "first_seen": "2026-10-05T06:34:46.881566",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Gaming Legends Series",
         "rarity_color": "#5b40a0"
       },
@@ -34667,7 +34712,7 @@
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_apronchow/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_ApronChow/icon.png",
         "first_seen": "2026-10-05T06:34:46.852782",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Epic",
         "rarity_color": "#c745ff"
       },
