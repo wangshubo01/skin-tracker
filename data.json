@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-12 07:01:00",
-  "total": 9556,
-  "new_count": 5,
+  "updated_at": "2026-10-19 05:47:38",
+  "total": 9583,
+  "new_count": 27,
   "groups": {
     "时装皮肤-Apex": [
       {
@@ -34528,11 +34528,101 @@
     ],
     "时装皮肤-Fortnite": [
       {
+        "name": "Vagatha",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_widowfoam/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_WidowFoam/icon.png",
+        "first_seen": "2026-10-19T05:46:36.505130",
+        "is_new": true,
+        "rarity": "Epic",
+        "rarity_color": "#c745ff"
+      },
+      {
+        "name": "Nurse Lenore",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_suturehalo/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_SutureHalo/icon.png",
+        "first_seen": "2026-10-19T05:46:36.485455",
+        "is_new": true,
+        "rarity": "Epic",
+        "rarity_color": "#c745ff"
+      },
+      {
+        "name": "Sugar",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_sugarbrain/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_SugarBrain/icon.png",
+        "first_seen": "2026-10-19T05:46:36.482349",
+        "is_new": true,
+        "rarity": "Epic",
+        "rarity_color": "#c745ff"
+      },
+      {
+        "name": "Princess Charlie Morningstar",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_smoothgriffin/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_SmoothGriffin/icon.png",
+        "first_seen": "2026-10-19T05:46:36.459471",
+        "is_new": true,
+        "rarity": "Epic",
+        "rarity_color": "#c745ff"
+      },
+      {
+        "name": "Yeat",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_radardigitortho/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_RadarDigitOrtho/icon.png",
+        "first_seen": "2026-10-19T05:46:36.440780",
+        "is_new": true,
+        "rarity": "Icon Series",
+        "rarity_color": "#00e5ff"
+      },
+      {
+        "name": "Twizz",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_radardigitgloom/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_RadarDigitGloom/icon.png",
+        "first_seen": "2026-10-19T05:46:36.439686",
+        "is_new": true,
+        "rarity": "Icon Series",
+        "rarity_color": "#00e5ff"
+      },
+      {
+        "name": "Monarcha",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_melodicpull/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_MelodicPull/icon.png",
+        "first_seen": "2026-10-19T05:46:36.413359",
+        "is_new": true,
+        "rarity": "Epic",
+        "rarity_color": "#c745ff"
+      },
+      {
+        "name": "Lady Liberty",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_carrymazeflap/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_CarryMazeFlap/icon.png",
+        "first_seen": "2026-10-19T05:46:36.356015",
+        "is_new": true,
+        "rarity": "Epic",
+        "rarity_color": "#c745ff"
+      },
+      {
+        "name": "Miasma",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_brassspar/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_BrassSpar/icon.png",
+        "first_seen": "2026-10-19T05:46:36.334263",
+        "is_new": true,
+        "rarity": "Epic",
+        "rarity_color": "#c745ff"
+      },
+      {
+        "name": "Alastor",
+        "image_url": "https://fortnite-api.com/images/cosmetics/br/character_acidwhale/icon.png",
+        "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_AcidWhale/icon.png",
+        "first_seen": "2026-10-19T05:46:36.311319",
+        "is_new": true,
+        "rarity": "Epic",
+        "rarity_color": "#c745ff"
+      },
+      {
         "name": "Jack the Clown",
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_witchvalve/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_WitchValve/icon.png",
         "first_seen": "2026-10-12T07:00:04.908871",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Epic",
         "rarity_color": "#c745ff"
       },
@@ -34541,7 +34631,7 @@
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_vaguehex/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_VagueHex/icon.png",
         "first_seen": "2026-10-12T07:00:04.895872",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Epic",
         "rarity_color": "#c745ff"
       },
@@ -34550,7 +34640,7 @@
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_terrybroke/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_TerryBroke/icon.png",
         "first_seen": "2026-10-12T07:00:04.889000",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Gaming Legends Series",
         "rarity_color": "#5b40a0"
       },
@@ -34559,7 +34649,7 @@
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_pongoquell/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_PongoQuell/icon.png",
         "first_seen": "2026-10-12T07:00:04.864451",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Gaming Legends Series",
         "rarity_color": "#5b40a0"
       },
@@ -34568,7 +34658,7 @@
         "image_url": "https://fortnite-api.com/images/cosmetics/br/character_hadtummy/icon.png",
         "source_url": "https://fortnite-api.com/images/cosmetics/br/Character_HadTummy/icon.png",
         "first_seen": "2026-10-12T07:00:04.838765",
-        "is_new": true,
+        "is_new": false,
         "rarity": "Gaming Legends Series",
         "rarity_color": "#5b40a0"
       },
@@ -74079,6 +74169,159 @@
       }
     ],
     "枪械皮肤-Valorant": [
+      {
+        "name": "Solarium Hammer",
+        "image_url": "https://media.valorant-api.com/weaponskins/afe4c665-4352-52ee-b77c-f29fd008ad11/displayicon.png",
+        "source_url": "https://playvalorant.com/",
+        "first_seen": "2026-10-19T05:46:34.308437",
+        "is_new": true,
+        "rarity": "Exclusive",
+        "rarity_color": "#f5955b"
+      },
+      {
+        "name": "Popmonz Knife",
+        "image_url": "https://media.valorant-api.com/weaponskins/ada54272-4af9-7ead-6463-1789b4f7e9e4/displayicon.png",
+        "source_url": "https://playvalorant.com/",
+        "first_seen": "2026-10-19T05:46:34.302784",
+        "is_new": true,
+        "rarity": "Exclusive",
+        "rarity_color": "#f5955b"
+      },
+      {
+        "name": "Popmonz Stinger",
+        "image_url": "https://media.valorant-api.com/weaponskins/b1669f9e-4c41-2c5a-59b1-5eb558a670fa/displayicon.png",
+        "source_url": "https://playvalorant.com/",
+        "first_seen": "2026-10-19T05:46:34.292673",
+        "is_new": true,
+        "rarity": "Exclusive",
+        "rarity_color": "#f5955b"
+      },
+      {
+        "name": "Solarium Spectre",
+        "image_url": "https://media.valorant-api.com/weaponskins/a73ad7c1-4d06-5144-b5cc-508da8684668/displayicon.png",
+        "source_url": "https://playvalorant.com/",
+        "first_seen": "2026-10-19T05:46:34.287492",
+        "is_new": true,
+        "rarity": "Deluxe",
+        "rarity_color": "#009587"
+      },
+      {
+        "name": "Keepsake Guardian",
+        "image_url": "https://media.valorant-api.com/weaponskins/f4eaad15-4fb4-a91b-f8a1-deb0caa3cece/displayicon.png",
+        "source_url": "https://playvalorant.com/",
+        "first_seen": "2026-10-19T05:46:34.273220",
+        "is_new": true,
+        "rarity": "Select",
+        "rarity_color": "#5a9fe2"
+      },
+      {
+        "name": "Keepsake Operator",
+        "image_url": "https://media.valorant-api.com/weaponskins/56209bb0-49ed-1ef4-b41d-5e8ec3321b31/displayicon.png",
+        "source_url": "https://playvalorant.com/",
+        "first_seen": "2026-10-19T05:46:34.258785",
+        "is_new": true,
+        "rarity": "Select",
+        "rarity_color": "#5a9fe2"
+      },
+      {
+        "name": "Keepsake Shorty",
+        "image_url": "https://media.valorant-api.com/weaponskins/7d57e0ec-420c-0120-5ff6-84b40dfefe04/displayicon.png",
+        "source_url": "https://playvalorant.com/",
+        "first_seen": "2026-10-19T05:46:34.252538",
+        "is_new": true,
+        "rarity": "Select",
+        "rarity_color": "#5a9fe2"
+      },
+      {
+        "name": "Popmonz Sheriff",
+        "image_url": "https://media.valorant-api.com/weaponskins/36d06b49-4b91-25b2-378e-5cac8e2cc9f8/displayicon.png",
+        "source_url": "https://playvalorant.com/",
+        "first_seen": "2026-10-19T05:46:34.244624",
+        "is_new": true,
+        "rarity": "Exclusive",
+        "rarity_color": "#f5955b"
+      },
+      {
+        "name": "Datalink Ghost",
+        "image_url": "https://media.valorant-api.com/weaponskins/84a2ba5e-4648-1d90-8a73-81a06f4b597b/displayicon.png",
+        "source_url": "https://playvalorant.com/",
+        "first_seen": "2026-10-19T05:46:34.236650",
+        "is_new": true,
+        "rarity": "Select",
+        "rarity_color": "#5a9fe2"
+      },
+      {
+        "name": "Solarium Bandit",
+        "image_url": "https://media.valorant-api.com/weaponskins/4151bc9a-4a12-20a7-086d-959b338011d9/displayicon.png",
+        "source_url": "https://playvalorant.com/",
+        "first_seen": "2026-10-19T05:46:34.233625",
+        "is_new": true,
+        "rarity": "Deluxe",
+        "rarity_color": "#009587"
+      },
+      {
+        "name": "Datalink Judge",
+        "image_url": "https://media.valorant-api.com/weaponskins/fca2507d-4c32-3f23-b4dd-2682009e018f/displayicon.png",
+        "source_url": "https://playvalorant.com/",
+        "first_seen": "2026-10-19T05:46:34.200070",
+        "is_new": true,
+        "rarity": "Select",
+        "rarity_color": "#5a9fe2"
+      },
+      {
+        "name": "Solarium Phantom",
+        "image_url": "https://media.valorant-api.com/weaponskins/72900d7d-4664-82bf-9759-e08f083931cb/displayicon.png",
+        "source_url": "https://playvalorant.com/",
+        "first_seen": "2026-10-19T05:46:34.195263",
+        "is_new": true,
+        "rarity": "Deluxe",
+        "rarity_color": "#009587"
+      },
+      {
+        "name": "Popmonz Phantom",
+        "image_url": "https://media.valorant-api.com/weaponskins/d3e1c6cb-46d7-0531-9d13-1595cb15e824/displayicon.png",
+        "source_url": "https://playvalorant.com/",
+        "first_seen": "2026-10-19T05:46:34.191609",
+        "is_new": true,
+        "rarity": "Exclusive",
+        "rarity_color": "#f5955b"
+      },
+      {
+        "name": "Datalink Bulldog",
+        "image_url": "https://media.valorant-api.com/weaponskins/c9806a07-45e9-3781-48f6-4c81bd2f96c9/displayicon.png",
+        "source_url": "https://playvalorant.com/",
+        "first_seen": "2026-10-19T05:46:34.181896",
+        "is_new": true,
+        "rarity": "Select",
+        "rarity_color": "#5a9fe2"
+      },
+      {
+        "name": "Datalink Warden",
+        "image_url": "https://media.valorant-api.com/weaponskins/3a592896-4f22-88af-903e-97ba6801ef87/displayicon.png",
+        "source_url": "https://playvalorant.com/",
+        "first_seen": "2026-10-19T05:46:34.179596",
+        "is_new": true,
+        "rarity": "Select",
+        "rarity_color": "#5a9fe2"
+      },
+      {
+        "name": "Keepsake Odin",
+        "image_url": "https://media.valorant-api.com/weaponskins/f916ef5b-4bcd-9078-441d-efbcfb3d82e0/displayicon.png",
+        "source_url": "https://playvalorant.com/",
+        "first_seen": "2026-10-19T05:46:34.162689",
+        "is_new": true,
+        "rarity": "Select",
+        "rarity_color": "#5a9fe2"
+      },
+      {
+        "name": "Popmonz Odin",
+        "image_url": "https://media.valorant-api.com/weaponskins/e902ec2b-4491-c455-ab88-3799dd7c8f93/displayicon.png",
+        "source_url": "https://playvalorant.com/",
+        "first_seen": "2026-10-19T05:46:34.160330",
+        "is_new": true,
+        "rarity": "Exclusive",
+        "rarity_color": "#f5955b"
+      },
       {
         "name": "Champions 2026 Fan",
         "image_url": "https://media.valorant-api.com/weaponskins/f401b55f-4b7d-c7a5-d698-a5ab0a54df39/displayicon.png",
